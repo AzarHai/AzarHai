@@ -1,15 +1,10 @@
-# Witch teacup
-The project was developed in CodeBlocks 20.03. It is a very simple scene simulation created for a graphical programming course.
 
-# Useage
-Zoom in/out with mouse wheel.
+### О себе ##
+Я - студент, который увлекается разработкой игр, веб-разработкой и архитектурой приложений. Имею опыт работы с такими технологиями, как C/C++, C#, PHP, MySQL, GitHub, Git, Visual Studio, CodeBlocks, Windows. Обожаю проектировать архитектуру приложений и работать с их логикой.
 
-Move with the keys w,a,s,d.
+---
+### Навыки и технологии
 
-Rotate rabbit with the keys up,down,left,right.
-
-Quit with key esc.
-# Review
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2585879-3278-4ea0-8129-9fef9a3935c9" alt="image">
-</p>
+- **Языки программирования**: C/C++,C#, PHP
+- **Инструменты и системы**: Git, GitHub, Visual Studio, CodeBlocks, Windows,Linux
+- **Базы данных**: MySQL
